@@ -1,0 +1,6 @@
+<?php
+
+/**
+ * Ajax based functions
+ */
+
